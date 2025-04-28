@@ -5,15 +5,20 @@
 💻 **Software Developer** passionate about:
 - Fullstack Web Development
 - AI Applications and LLM Integration
+- System Architecture and Platform Security
+- Database Optimization and High-Scale Systems
+- Tools and Utilities for Games and Online Platforms
 
 
 🔧 **Technologies I Work With:**
-- TypeScript, JavaScript, Python
-- React, Node.js
-- Git, GitHub, Docker
-- OpenAI API, ANTLR
+- JavaScript, TypeScript, Python, PHP, C#, Java, Lua
+- React, Node.js, Express.js, Laravel, Scikit-learn
+- MySQL, MongoDB, Redis, GraphQL
+- Git, Docker, AWS, Cloudflare, Microsoft Excel, Power BI
+- REST API Design, ANTLR, Query Optimization
 
 🌟 **Featured Projects:**
+- **Co-Founder & CTO at SkinArena.com** (2014–2017)  
 - [SimpleLLMChatBot](https://github.com/jeremygan7/SimpleLLMChatBot) – LLM chatbot using OpenAI API
 - [PathTakenAnalyzer](https://github.com/jeremygan7/PathTakenAnalyzer) – Static + Dynamic Analysis Tool
 - [BudgetKingDSL](https://github.com/jeremygan7/BudgetKingDSL) – Lightweight DSL for budgeting
