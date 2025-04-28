@@ -1,4 +1,4 @@
-# Hi there, I'm Jeremy Gan 👋
+# Hello World, I'm Jeremy Gan 👋
 
 🎓 **University of British Columbia Alumni** (B.Sc. Combined Major in Business and Computer Science)
 
