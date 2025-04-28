@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Jeremy Gan 👋
 
-<!--
-**jeremygan7/jeremygan7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **University of British Columbia Alumni** (B.Sc. Combined Major in Business and Computer Science)
 
-Here are some ideas to get you started:
+💻 **Software Developer** passionate about:
+- Fullstack Web Development
+- AI Applications and LLM Integration
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🔧 **Technologies I Work With:**
+- TypeScript, JavaScript, Python
+- React, Node.js
+- Git, GitHub, Docker
+- OpenAI API, ANTLR
+
+🌟 **Featured Projects:**
+- [SimpleLLMChatBot](https://github.com/jeremygan7/SimpleLLMChatBot) – LLM chatbot using OpenAI API
+- [PathTakenAnalyzer](https://github.com/jeremygan7/PathTakenAnalyzer) – Static + Dynamic Analysis Tool
+- [BudgetKingDSL](https://github.com/jeremygan7/BudgetKingDSL) – Lightweight DSL for budgeting
+
+<!-- 📫 **Contact Me:** -->
+<!-- [LinkedIn](https://www.linkedin.com/in/YOUR-LINK-HERE) (optional) -->
+
+---
+[![Jeremy's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeremygan7&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
+
